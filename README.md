@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **surbhi.prasad@gmail.com**
 
-- ⚡ Fun fact **I can solve Rubik's cube in 10 mins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
