@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surbhi Prasad</h1>
 <h3 align="center">A passionate data scientist from San Francisco</h3>
 
-- 🔭 I’m currently working on **Sway: Safety Route Ranking**
+- 🔭 I’m currently working on **Sway: Safe Route Ranking**
 
 - 🌱 I’m currently learning **NLP**
 
