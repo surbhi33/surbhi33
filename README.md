@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 📝 I regularly write articles on [https://surbhi-prasad.medium.com/](https://surbhi-prasad.medium.com/)
+- 📝 I write articles on [https://surbhi-prasad.medium.com/](https://surbhi-prasad.medium.com/)
 
 - 💬 Ask me about **Python,Statistics,SQL,Machine Learning,Deep learning,Recommendation**
 
